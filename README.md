@@ -3,7 +3,7 @@
 ````markdown
 # Flutter Internship Task
 
-![App Screenshot](assets/images/output_aviraltara_task.png)
+![App Screenshot](assets/output_aviraltara_task.png)
 
 ## Overview
 
