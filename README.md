@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # taskintern
 
 A new Flutter project.
@@ -16,6 +17,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 =======
+=======
+>>>>>>> e2622891521dfcb25a51307d7c29a90f7659cf88
 # Flutter App
 
 ## Description
@@ -40,4 +43,7 @@ This is a Flutter app developed by **Aviral Tara**. It utilizes Flutter for the 
    ```bash
    git clone https://github.com/aviraltar/Flutter-internship-Spring-Edge-task.git
    cd flutter-app
+<<<<<<< HEAD
+>>>>>>> e2622891521dfcb25a51307d7c29a90f7659cf88
+=======
 >>>>>>> e2622891521dfcb25a51307d7c29a90f7659cf88
