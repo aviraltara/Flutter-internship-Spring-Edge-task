@@ -3,7 +3,7 @@
 ````markdown
 # Flutter Internship Task
 
-![App Screenshot](insert-your-image-url-here)
+![App Screenshot](assets/images/output_aviral_tara.png)
 
 ## Overview
 
